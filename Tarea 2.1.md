@@ -1,4 +1,4 @@
-<h2 id="running-process_radtags"><strong>4.1.3 Running process_radtags</strong></h2>
+<h3 id="running-process_radtags"><strong>4.1.3 Running process_radtags</strong></h3>
 <p>Here is how single-end data received from an Illumina sequencer might look:</p>
 <pre><code>% ls ./raw 
 lane3_NoIndex_L003_R1_001.fastq.gz lane3_NoIndex_L003_R1_006.fastq.gz lane3_NoIndex_L003_R1_011.fastq.gz
